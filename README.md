@@ -39,17 +39,7 @@ Arri is a sleek SwiftUI app designed to help users evaluate their expenses intel
 - Data persistence and expense history tracking
 - Budget setting and tracking features
 
-## Contributing
-
-Contributions to Arri are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Created by Vishesh Singh Rajput (specstan)
 - Finalized on 23/02/25
-
-Sources
