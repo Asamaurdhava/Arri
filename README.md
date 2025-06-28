@@ -2,9 +2,9 @@
 
 > *Intelligent expense evaluation with real-time currency conversion and personalized financial guidance*
 
-**Swift Student Challenge 2025 Submission** - Created by Vishesh Singh Rajput (specstan)
+**Swift Student Challenge 2025 Submission**
 
-A SwiftUI-based iOS application that provides intelligent expense assessment through category-based evaluation, real-time currency conversion, and personalized financial recommendations. Built specifically for Swift Student Challenge 2025 submission.
+A SwiftUI-based iOS application that provides intelligent expense assessment through category-based evaluation, real-time currency conversion, and personalized financial recommendations. Developed for Swift Student Challenge 2025 submission.
 
 ## 📱 Application Overview
 
